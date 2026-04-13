@@ -104,25 +104,25 @@ The project focuses on **clean UI/UX**, **real-time interactivity**, and **effic
 ## 📸 Project Screenshots
 
 <h3>🎮 Main Interface</h3>
-<img src="screenshots/1.png" width="500"/>
+<img src="screenshots/1.jpg" width="500"/>
 
 <h3>🚀 Asteroid Dodge Game</h3>
-<img src="screenshots/2.png" width="500"/>
+<img src="screenshots/2.jpg" width="500"/>
 
 <h3>⚡ Reaction Speed Game</h3>
-<img src="screenshots/3.png" width="500"/>
+<img src="screenshots/3.jpg" width="500"/>
 
 <h3>🧠 Memory Pattern Game</h3>
-<img src="screenshots/4.png" width="500"/>
+<img src="screenshots/4.jpg" width="500"/>
 
 <h3>🎨 Color Match Game</h3>
-<img src="screenshots/5.png" width="500"/>
+<img src="screenshots/5.jpg" width="500"/>
 
 <h3>⌨️ Typing Speed Test</h3>
-<img src="screenshots/6.png" width="500"/>
+<img src="screenshots/6.jpg" width="500"/>
 
 <h3>📈 Leaderboard</h3>
-<img src="screenshots/6.png" width="500"/>
+<img src="screenshots/7.jpg" width="500"/>
 
 ---
 
@@ -130,10 +130,10 @@ The project focuses on **clean UI/UX**, **real-time interactivity**, and **effic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gamify-app.git
+   git clone https://github.com/your-username/gamify.git
 2. Open the folder:
    ```bash
-   cd gamify-app
+   cd gamify
 3. Run the app 
 ---
 
